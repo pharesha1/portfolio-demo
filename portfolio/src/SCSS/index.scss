@@ -110,6 +110,10 @@ html, body{
     display: flex;
 }
 
+.instagram-div, .twitter-div, .facebook-div{
+    margin-right: 40px;
+}
+
 @media screen and (max-width: 800px) {
     .content{
         max-width: 90%;
